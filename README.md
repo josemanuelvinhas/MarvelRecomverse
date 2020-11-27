@@ -1,6 +1,7 @@
 # MarvelRecomverse
 
-
+Sistema de Recomendación de Personajes de Marvel [:link:](https://github.com/josemanuelvinhas/MarvelRecomverse/blob/main/MarvelRecomverse_Sistema_de_Recomendaci%C3%B3n.ipynb)
+Sistema de Valoración de Personajes de Marvel [:link:](https://github.com/josemanuelvinhas/MarvelRecomverse/blob/main/MarvelRecomverse_Sistema_de_Valoracion.ipynb)
 
 ## Construido con :hammer_and_wrench:
 
